@@ -1,0 +1,5 @@
+The time complexity of Quick sort
+
+In the best: O(n log n).
+In the average cases: O(n log n).
+In the worst cases: O(n log n).

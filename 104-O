@@ -1,0 +1,4 @@
+The time complexity of Heap sort:
+In the best cases: O(n log n)
+In the average cases: O(n log n)
+In the worst cases: O(n log n)

@@ -1,0 +1,4 @@
+The time complexity of Counting sort is linear, making it 
+In the best cases: O(n)
+In the average cases: O(n)
+In the worst cases: O(n)
